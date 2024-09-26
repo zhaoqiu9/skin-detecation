@@ -1,0 +1,6 @@
+1.安装相关库，运行installpackages.py
+2.datasetsde data.yaml的数据集路径改成自己的数据集的绝对路径。
+3.运行train训练模型，有问题问我。
+4.mainprogram.py是软件主程序
+5.uiprogram是软件界面，回来把标题改了。
+6.runs里有模型性能图，运行train之后自动生成。
